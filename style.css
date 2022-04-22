@@ -1,0 +1,28 @@
+ul {
+    list-style-type: none;
+    background-color: #D6AFDC;
+    width: 80%;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+}
+
+li {
+    margin: 20px;
+    margin-left: 0;
+    font-size: 20px;
+    justify-content: flex-start;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-weight: bold;
+}
+
+a:hover {
+    background-color: blue;
+    padding: 20px;
+}
